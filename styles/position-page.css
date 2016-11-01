@@ -11,7 +11,6 @@ nav {
 	padding: 0px 60px 0px 60px;
 	top: 0;
 	left: 0;
-	z-index: 9999;
 }
 
 nav img{
@@ -52,7 +51,7 @@ nav a:hover {
 	top: 200px;
 }
 
-img{
+.green_box img{
 	width: 200px;
 	height: 200px;
 	position: absolute
